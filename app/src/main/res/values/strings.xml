@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Arnika-TDR NC SetUp</string>
+    <string name="devices">Nurse Calls</string>
+    <string name="room"> Room No. \n Example:01</string>
+    <string name="bed"> Bed No. \n Example:01</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter">Enter</string>
+    <string name="login">Login</string>
+</resources>
